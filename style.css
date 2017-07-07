@@ -1,0 +1,33 @@
+.jumbotron{
+  width: 50%;
+padding-right: 200px;
+padding-left: 200px;
+color: white;
+border-radius: 20px;
+background: rgba(29, 29, 29, 0.65);
+left: 20%;
+
+
+}
+.btn{
+width: 60%;
+
+text-align: center;
+border-radius: 10px;
+      }
+      .boton{
+        text-align: center;
+      }
+h3{
+padding-bottom: 30px;
+text-align: center;
+font-size: 30
+}
+.container{
+padding-left: 400px;
+padding-top: 40px;
+
+}
+.btn{
+font-size: 15px;
+}
